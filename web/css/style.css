@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#rodape {
+    backgrdound-color: #0c7a00;
+    background-image: linear-gradient(to bottom, #1d6000, #2f9105);
+    color: white;
+    text-decoration: none;
+
+}
+
+#menu{
+    float: right;
+    margin-top: 5%;
+
+}
+
+
+a:visited{
+   text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+#categorias{
+    margin-left: 25%;
+}
+
+.bg_video {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.f1{
+    color: #FFF;
+
+}
+
+.jumbotron{
+    margin-top: 1%;
+}
+
+
+.carousel-caption{
+    font-family: 'Roboto', sans-serif;
+    background-color :white ;
+    color:black;
+    height: 85px;
+
+}
+
+.coloracao{
+    color: #696969;
+}
+
+#filtro{
+    background-color: black;
+    border-radius: 25px;
+}
